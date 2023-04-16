@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "832023030442",
+    "firebase_url": "https://abs6-816d7-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "abs6-816d7",
+    "storage_bucket": "abs6-816d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832023030442:android:8d7e8f0e9e13a6389dfed3",
+        "android_client_info": {
+          "package_name": "com.example.easy_calendar3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "832023030442-l8jncilp20g5c4qgovlvr3u07atlvs5d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0bYH07pgYmSTrktfUHxHO0brArp7aHEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "832023030442-l8jncilp20g5c4qgovlvr3u07atlvs5d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "832023030442-1hkcqhscps1ijjpa438ale7f4950o6e1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.namerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
